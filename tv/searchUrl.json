@@ -34,14 +34,7 @@
       "click": true,
       "wePlus": {}
     },
-    {
-      "id": 1,
-      "name": "最大云",
-      "url": "http://www.zdziyuan.com/inc/api_zuidam3u8.php",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,10&&韩国剧,11&&美国剧,15&&日本剧,20&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
+
     {
       "id": 1,
       "name": "沃酷云",
